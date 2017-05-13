@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['name',['Name',['../class_item_config_1_1_card.html#ad49c386393b1b5827284b50abc98c891',1,'ItemConfig::Card::Name()'],['../class_item_config_1_1_pill_effect.html#a7a174313ade7878c0989aa7d9967aebf',1,'ItemConfig::PillEffect::Name()'],['../class_item_config_1_1_item.html#aee05249c734db6597d8f20202a4b68f5',1,'ItemConfig::Item::Name()']]]
+];
